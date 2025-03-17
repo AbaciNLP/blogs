@@ -1,0 +1,29 @@
+---
+layout: home
+---
+
+<div class="posts clearfix">
+  {% for post in paginator.posts %}
+    <article class="post">    
+      <div class="eyebrow">{{ post.date | date: "%d %b %Y" }}</div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        <p>{{ post.desc }}</p>
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="small-link">Read details</a>
+    </article>
+  {% endfor %}
+</div>
+
+<!-- 分页导航 -->
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
+    {% endif %}
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next</a>
+    {% endif %}
+  </div>
+{% endif %}
