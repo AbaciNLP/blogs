@@ -39,12 +39,12 @@ Abaci Embeddings have achieved top-tier performance on FinMTEB, a comprehensive 
 
 ## How to Use Abaci Embeddings?
 
-We want you to experience the power of Abaci Embeddings yourself. That’s why we’re offering the first 10 million tokens for free. Simply [sign up]() and get started with embedding your financial text data today!
+We want you to experience the power of Abaci Embeddings yourself. That’s why we’re offering the first 10 million tokens for free. Simply [sign up](https://abacinlp.com/login) and get started with embedding your financial text data today!
 
 ## What is AbaciNLP?
 
 At AbaciNLP, our team has conducted years of cutting-edge research at the [FinNLP Group](https://finnlp.hkust.edu.hk/) at Hong Kong University of Science and Technology. We specialize in training NLP solutions tailored for the finance and investment domain. Our work has been published in top-tier AI/NLP conferences and prestigious finance and business journals.
 
 ## Our Mission
-At AbaciNLP, our mission is to empower financial professionals by unlocking full potential of financial text data, from alpha generation to advanced search and retrieval systems. We’re just beginning to tap into the potential of AI in finance, and we’re eager to see the innovative ways you’ll harness our tools to drive better outcomes. Access to [abaci-text-v1]()  is available today!
+At AbaciNLP, our mission is to empower financial professionals by unlocking full potential of financial text data, from alpha generation to advanced search and retrieval systems. We’re just beginning to tap into the potential of AI in finance, and we’re eager to see the innovative ways you’ll harness our tools to drive better outcomes. Access to [abaci-text-v1](https://abacinlp.com/pricing)  is available today!
 
