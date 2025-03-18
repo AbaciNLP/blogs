@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Exciting to Announce Abacus Embeddings"
+title: "Exciting to Announce Abaci Embeddings"
 date: 2025-03-17 12:00:00
 categories: finance nlp
 desc: Our team at AbaciNLP is passionate about unlocking the full potential of financial text data.
 ---
-
-# Exciting to Announce Abaci Embeddings!
 
 Are you a buy-side or sell-side analyst, overwhelmed by the sheer volume of financial reports and news? In the age of AI, you’ve probably considered using RAG (retrieval-augmented generation) to quickly index your data repositories, allowing you to instantly retrieve the critical information you need.
 
