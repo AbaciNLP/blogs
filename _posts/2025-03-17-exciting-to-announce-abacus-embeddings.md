@@ -34,7 +34,8 @@ We do things differently. Unlike other models that rely heavily on financial tex
 ## The Performance
 
 Abaci Embeddings have achieved top-tier performance on FinMTEB, a comprehensive benchmark consisting of 64 financial datasets in both English and Chinese, covering several different tasks. While we did not specifically train Abaci on any FinMTEB task, our results speak for themselves.  Compared with OpenAI's text-embedding-3-large, Abaci shows an average performance improvement of almost 5 points, highlighting its superior ability to handle financial text!
-![alt text for screen readers](model_performance.png "FinMTEB performance")
+![alt text for screen readers]({{ site.baseurl }}/assets/images/model_performance.png "FinMTEB performance")
+<!-- ![alt text for screen readers](model_performance.png "FinMTEB performance") -->
 
 ## How to Use Abaci Embeddings?
 
@@ -42,8 +43,8 @@ We want you to experience the power of Abaci Embeddings yourself. That’s why w
 
 ## What is AbaciNLP?
 
-At AbaciNLP, our team has conducted years of cutting-edge research at the (FinNLP Group)[https://finnlp.hkust.edu.hk/] at Hong Kong University of Science and Technology. We specialize in training NLP solutions tailored for the finance and investment domain. Our work has been published in top-tier AI/NLP conferences and prestigious finance and business journals.
+At AbaciNLP, our team has conducted years of cutting-edge research at the [FinNLP Group](https://finnlp.hkust.edu.hk/) at Hong Kong University of Science and Technology. We specialize in training NLP solutions tailored for the finance and investment domain. Our work has been published in top-tier AI/NLP conferences and prestigious finance and business journals.
 
 ## Our Mission
-At AbaciNLP, our mission is to empower financial professionals by unlocking full potential of financial text data, from alpha generation to advanced search and retrieval systems. We’re just beginning to tap into the potential of AI in finance, and we’re eager to see the innovative ways you’ll harness our tools to drive better outcomes. Access to (abaci-text-v1)[]  is available today!
+At AbaciNLP, our mission is to empower financial professionals by unlocking full potential of financial text data, from alpha generation to advanced search and retrieval systems. We’re just beginning to tap into the potential of AI in finance, and we’re eager to see the innovative ways you’ll harness our tools to drive better outcomes. Access to [abaci-text-v1]()  is available today!
 
